@@ -1,0 +1,29 @@
+{"name":"ANANDKUMAR K","address":"246/32 New Street,Govindapuram,Thiruvidaimaruhtur,Pin-612101","Mobile":"9894559365",
+"emailid":"anandkumar202@gmail.com","Objective":"To obtain a position of .NET developer where i can utilize my software experience in order to provide the 
+innovative and resposible role in developing software applications","Technical Skill":{"Scripting Languages":"JavaScript","Network Base":"CCNA (Routing 
+and Switching)","Programming Languages":"C#.NET,VB.NET","Database":"SQL Server 2005,2008","Other Tools":"Crystal Report XI","Operating System":"Windows XP, 7, 8"},
+"Experience summary":"A dedicated, motivated, skilled individual with (6+ Yrs) of experience in .NET Industry.,I have been involved in analyzing, designing, 
+and developing windows and Web based Applications","Work Experience":"KENI Technologies","Duration":"From Nov 2012 to till date.","Position":"Software Developer 
+and Verification Engineer,Developing applications and testing as per requirement","Resposibilities":"Obtaining the Requirement.,Planning the flow of software 
+application.,Designing the Front End of the application.,Developing the application with the Code part using C#.NET.,Creating the SQL database for the developing 
+software application in which insertion, deletion and updations are done using stored procedures.,Testing the software by validating the codes.,Publishing the 
+software application after the completion of the project","Educational Qualification":[{"degree":"BE Computer Science Engineering","Year of Passing":"2010",
+"Percentage":"6.92 CGPA","Diploma":"Computer Technology","Year of Passing":"2010","Percentage":"72","HSC":"State board","Year of Passing":"2010","Percentage":"64",
+"SSLC":"State board","Year of Passing":"2003","Percentage":"72.8"}],"Project Experience":[{"Project 1":"Point of Sales","Tools Used":"Visual Studio 2008(C#.NET), 
+SQL Server 2005,Crystal Report XI","Description":"Accounts and Billing application is a simple POS system which helps the user to have a record on their sales for 
+the customer to whom the user delivers items. It has a module which helps user to have record of their client list. The user can also have a track on their credit 
+sales and they can also track the balance sheet in a single click. The application uses SQL server 2005 as backend through which the data are saved and retrieved 
+according to their use.","Project 2":"Stock Management","Tools Used":"Visual Studio 2008(C#.NET), SQL Server 2005,Crystal Report XI","Description":"Stock Management
+Application is a windows based application developed using C#.NET. This application helps us to maintain Records on the stock of any concern. Major use of the 
+application plays a vital role in Stores. The Stock management application uses SQL Server 2005 as backend. We can insert the record of data into the database and 
+retrieve when to view the record. We can also Update or delete the inserted record. Using reporting function we can print the report.","Project 3":"Cargo Booking 
+& Tracking Application","Tools Used":"Visual Studio2008 (ASP.NET), SQL Server 2005","Description":"Cargo Tracking System is a web based application developed 
+using ASP.NET.This system involves booking, Tracking, Dispatching, and Delivering of parcels. The system uses SQL Server 2005. This system runs in Client Server 
+mode means the application will installed in server and it will accessed by the client system through static ip address along with constant port id. This system 
+will be accessed only by authorized user by entering username and password for validation process. To ensure System Performance the application is developed in 
+Three tier architecture."}],"Personal Profile":[{"Date of Birth":"12th July 1988","Father’s Name":"P. Kasinathan","Marital status":"Single","Languages Known":"Tamil and English",
+"Permanent Address":"No.246/32, New Street,Govindapuram post,Thiruvidaimarudur (Tk)-612101,Thanjavur,Tamil Nadu,India","Passport No":"J3610025"}]										   
+,"Signature":"K.ANANDKUMAR"} 
+
+
+
