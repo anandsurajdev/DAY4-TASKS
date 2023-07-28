@@ -1,7 +1,0 @@
-Read about the difference between window screen an document in javascript
-
-The Window Screen object provides properties, methods, and events that relate to the information about 
-the current display (e.g. width, height, color depth, etc.).
-
-The Document object represents the HTML document that is currently loaded in the window. It provides
- properties and methods to access and manipulate the document content and structure. 
