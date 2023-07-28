@@ -1,0 +1,25 @@
+let employee= [
+    {name: "Anandkumar", age: 34,address:"Thanjaur",dept:"Finanace",Designation:"CFO"},
+    {name: "Ananthakumar", age: 34,address:"Kanjikode",dept:"IT",Designation:"CEO"},
+    {name: "Muruganantham", age: 34,address:"Coimbatore",dept:"HR",Designation:"COO"}
+]
+
+//For Loop
+for(let i = 0; i < employee.length; i++) {
+    console.log(employee[i]);
+}
+
+//For In Loop
+for(let a in employee) {
+    console.log(employee[a]);
+}
+
+//For Of Loop
+for(let a of employee) {
+    console.log(a);
+}
+
+//For Each Loop
+employee.forEach(a => {
+    console.log(a);
+});
